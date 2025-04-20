@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I am Ab Yahaya a Full-stack Software engineer with a specialization on Backend and Devops. 
+I have experience working with tools like: JavaScript/TypeScript, ReactJs, NodeJS & Express, Flask, Django, Docker, Kubernete, Github, Postman, Bash, Linux, Digital Ocean, AWS EC2, HAProxy, Nginx and Gunicorn, Puppet and C programming for system engineering!
+
+I am also skilled in networking with CCNA 1, 2 and 3 certifications.
+
 <!--
 **AbYahaya/AbYahaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
